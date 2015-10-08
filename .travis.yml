@@ -1,2 +1,2 @@
 language: csharp
-solution: Src/couchbase-net-linq.sln.sln
+solution: Src/couchbase-net-linq.sln

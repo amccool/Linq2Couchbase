@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Couchbase.Linqe</id>
+    <version>$version$</version>
+    <title>Couchbase.Linq</title>
+    <authors>Couchbase.Linq</authors>
+    <owners>Couchbase,amccool</owners>
+    <projectUrl>https://github.com/amccool/Linq2Couchbase</projectUrl>
+    <licenseUrl>https://github.com/amccool/Linq2Couchbase#license</licenseUrl>
+    <iconUrl>http://amccool.github.io/Linq2Couchbase/Packaging/couchbase-logo.png</iconUrl>
+    <summary>
+      LINQ provider for querying Couchbase
+    </summary>
+    <description>
+      The official Language Integrated Query (LINQ) provider for querying Couchbase Server 4.0 with N1QL using the Couchbase .NET SDK
+    </description>
+    <copyright>Copyright Couchbase 2015</copyright>
+    <tags>Couchbase N1QL LINQ C# .NET</tags>
+  </metadata>
+  <files>
+    <file src="Couchbase.Linq.dll" target="lib\net45" />
+  </files>
+</package>

@@ -1,2 +1,2 @@
 language: csharp
-solution: StaticGenerator.sln
+solution: Src\couchbase-net-linq.sln.sln
